@@ -7,12 +7,12 @@
 
 <h1 align="left">Hi 👋 I'm Rajat</h1>
 
-<p align="left">Python Full Stack Developer (Trainee)</p>
+<p align="left">Python Full Stack Developer</p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-🌱 I’m currently learning Django.<br>
+🌱 I’m currently learning Django Rest Framework.<br>
 🤔 I’m looking for help with Python backend development and project architecture.<br>
 💬 Ask me about Python and backend fundamentals.<br>
 📫 How to reach me: rajatkumarbal961@gmail.com
